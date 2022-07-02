@@ -1,0 +1,155 @@
+
+App Thinning Size Report for All Variants of OdooShoppe
+
+Variant: OdooShoppe-0FDF84EA-ED7E-4917-B286-07A6A7597E2C.ipa
+Supported variant descriptors: [device: iPad8,11, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad13,8, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad13,6, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad13,1, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad13,17, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad11,4, os-version: 15.0], [device: iPad13,10, os-version: 15.0], [device: iPad7,3, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad8,6, os-version: 15.0], [device: iPad6,4, os-version: 15.0], [device: iPad13,7, os-version: 15.0], [device: iPad13,11, os-version: 15.0], [device: iPad13,5, os-version: 15.0], [device: iPad7,4, os-version: 15.0], [device: iPad13,2, os-version: 15.0], [device: iPad8,10, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad7,1, os-version: 15.0], [device: iPad8,7, os-version: 15.0], [device: iPad14,1, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad8,3, os-version: 15.0], [device: iPad6,3, os-version: 15.0], [device: iPad13,16, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad11,3, os-version: 15.0], and [device: iPad13,9, os-version: 15.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-18A572BA-91EE-4537-812D-DB30B2B369ED.ipa
+Supported variant descriptors: [device: iPad7,12, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad7,5, os-version: 14.0], [device: iPad7,11, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad7,11, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad5,4, os-version: 14.0], [device: iPad7,6, os-version: 14.0], [device: iPad7,12, os-version: 14.0], [device: iPad6,8, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad5,2, os-version: 14.0], [device: iPad5,1, os-version: 14.0], [device: iPad6,12, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad6,7, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad11,7, os-version: 14.0], and [device: iPad6,7, os-version: 14.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-1BD73311-7AE1-447F-BF0A-7AC57AAE8CFA.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 13.0], [device: iPhone11,8, os-version: 14.0], [device: iPhone11,8, os-version: 13.0], and [device: iPhone12,1, os-version: 14.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-1CCF98DE-DD27-47C8-BE88-4C569BC88217.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], and [device: iPhone10,5, os-version: 12.2]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-1EB0ACF0-3261-44B9-80E9-FE1F37BD073F.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 15.0], [device: iPhone14,6, os-version: 15.0], [device: iPhone10,1, os-version: 15.0], [device: iPhone12,8, os-version: 15.0], [device: iPhone9,1, os-version: 15.0], and [device: iPhone10,4, os-version: 15.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-32E22BAF-2F34-4AF5-8FE9-F4E033D6F921.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-4183F717-B42F-4E9D-87AA-AA429F5A3E4F.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 14.0] and [device: iPhone8,2, os-version: 13.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-43FF96E9-CD7F-4947-B6BF-0331C6639FD5.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], and [device: iPhone10,4, os-version: 12.2]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-4EDDBC7A-7FEF-4B74-92AD-209EA4B98D5C.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 13.0], [device: iPhone8,4, os-version: 13.0], [device: iPhone8,1, os-version: 14.0], [device: iPod9,1, os-version: 14.0], [device: iPod9,1, os-version: 13.0], and [device: iPhone8,4, os-version: 14.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-8587BCCF-961D-4B2E-9D36-8F48ECA04B08.ipa
+Supported variant descriptors: [device: iPhone11,2, os-version: 13.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], and [device: iPhone9,4, os-version: 14.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-961A1658-B0D1-44C8-B40C-2E56551C6198.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-9B177992-7DFF-47C8-9B81-BC8FD6109905.ipa
+Supported variant descriptors: [device: iPod9,1, os-version: 15.0], [device: iPhone8,4, os-version: 15.0], and [device: iPhone8,1, os-version: 15.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-9FABFE55-FE21-472E-A548-C8CE5013623B.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], and [device: iPhone6,1, os-version: 12.2]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-A918C09D-B7B0-414D-A93E-A5192EF8E245.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 15.0] and [device: iPhone12,1, os-version: 15.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-B36903DA-868D-4CAD-BF77-17B27ADDB869.ipa
+Supported variant descriptors: [device: iPhone14,5, os-version: 15.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone13,3, os-version: 15.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone13,1, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone13,4, os-version: 15.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone10,2, os-version: 15.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone14,3, os-version: 15.0], [device: iPhone10,6, os-version: 15.0], and [device: iPhone9,4, os-version: 15.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-BB05A708-4322-457E-BFAD-F5524B778921.ipa
+Supported variant descriptors: [device: iPad8,1, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad7,1, os-version: 12.2], and [device: iPad8,4, os-version: 12.2]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-BCAC55D0-1358-47D0-A97B-08504E491FBF.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad8,1, os-version: 14.0], [device: iPad8,7, os-version: 14.0], [device: iPad13,9, os-version: 14.0], [device: iPad13,7, os-version: 14.0], [device: iPad8,1, os-version: 13.0], [device: iPad13,2, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad8,4, os-version: 13.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad13,6, os-version: 14.0], [device: iPad8,8, os-version: 13.0], [device: iPad13,1, os-version: 14.0], [device: iPad8,2, os-version: 14.0], [device: iPad13,10, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad11,3, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad13,4, os-version: 14.0], [device: iPad11,2, os-version: 13.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,10, os-version: 14.0], [device: iPad11,1, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad11,4, os-version: 14.0], [device: iPad13,11, os-version: 14.0], [device: iPad6,4, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,10, os-version: 13.0], [device: iPad6,3, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,9, os-version: 13.0], [device: iPad13,5, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,11, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad8,9, os-version: 14.0], [device: iPad7,2, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad11,4, os-version: 13.0], and [device: iPad13,8, os-version: 14.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-BE2572F4-4BBE-4A5E-AA4C-0B93CA8528D3.ipa
+Supported variant descriptors: [device: iPad4,7, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad7,6, os-version: 12.2], and [device: iPad5,2, os-version: 12.2]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-D4ABE819-147C-4B31-A343-43AA16E23D34.ipa
+Supported variant descriptors: [device: iPad12,2, os-version: 15.0], [device: iPad5,3, os-version: 15.0], [device: iPad7,6, os-version: 15.0], [device: iPad12,1, os-version: 15.0], [device: iPad7,11, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad11,6, os-version: 15.0], [device: iPad7,12, os-version: 15.0], [device: iPad6,11, os-version: 15.0], [device: iPad6,12, os-version: 15.0], [device: iPad7,5, os-version: 15.0], [device: iPad5,4, os-version: 15.0], [device: iPad6,8, os-version: 15.0], [device: iPad5,1, os-version: 15.0], [device: iPad6,7, os-version: 15.0], and [device: iPad11,7, os-version: 15.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-E856F7D6-9035-4028-B54D-ED168DA2069F.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.2] and [device: iPhone7,1, os-version: 12.2]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe-F52C6548-025F-4F59-ADD7-915F0427A7D6.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 14.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], and [device: iPhone9,1, os-version: 14.0]
+App + On Demand Resources size: 4.9 MB compressed, 12.6 MB uncompressed
+App size: 4.9 MB compressed, 12.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: OdooShoppe.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 5.1 MB compressed, 12.9 MB uncompressed
+App size: 5.1 MB compressed, 12.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

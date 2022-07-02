@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="ipad12_9" orientation="portrait" layout="fullscreen" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <viewController id="8iK-rL-wXe">
+            <layoutGuides>
+                <viewControllerLayoutGuide type="top" id="vut-Xz-8bF"/>
+                <viewControllerLayoutGuide type="bottom" id="Ast-LF-OU8"/>
+            </layoutGuides>
+            <view key="view" contentMode="scaleToFill" id="Bqg-nH-LR5">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" id="FNp-Dg-i8L">
+                        <rect key="frame" x="67" y="373" width="281" height="150"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    </imageView>
+                </subviews>
+                <color key="backgroundColor" red="0.38092872500000002" green="0.72188329699999998" blue="0.94810801739999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <color key="tintColor" red="0.38092872500000002" green="0.72188329699999998" blue="0.94810801739999995" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            </view>
+            <size key="freeformSize" width="414" height="896"/>
+            <point key="canvasLocation" x="482.22656249999994" y="478.77013177159586"/>
+        </viewController>
+    </objects>
+    <resources>
+        <image name="logo" width="250" height="250"/>
+    </resources>
+</document>

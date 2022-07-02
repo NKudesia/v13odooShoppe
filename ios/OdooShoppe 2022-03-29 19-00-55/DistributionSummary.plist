@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OdooShoppe.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>3</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>0413B142504D3959E524A178C92E446ECA857B39</string>
+				<key>dateExpires</key>
+				<string>18/02/23</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>TH6Z9KWB3G.org.reactjs.native.kanak.odooshoppe</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>TH6Z9KWB3G</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>OdooShoppe.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>631d74c8-95a2-4b0c-bf63-0688110bc453</string>
+				<key>dateExpires</key>
+				<string>01/03/23</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: org.reactjs.native.kanak.odooshoppe</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>TH6Z9KWB3G</string>
+				<key>name</key>
+				<string>Kanak Infosystems LLP.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
